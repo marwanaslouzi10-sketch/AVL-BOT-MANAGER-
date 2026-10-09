@@ -1,0 +1,13 @@
+{
+"name": "avl-manager-bot-v1",
+"version": "1.0.0",
+"description": "AVL Manager Bot V1 - Arabic Virtual League",
+"main": "index.js",
+"scripts": {
+"start": "node index.js",
+"deploy": "node deploy-commands.js"
+},
+"dependencies": {
+"discord.js": "^14.22.1"
+}
+}
